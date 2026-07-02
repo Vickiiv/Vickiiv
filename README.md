@@ -16,4 +16,4 @@
 
 ## 📫 Kontakt
 
-[LinkedIn](www.linkedin.com/in/victoriavirzi) · [GitHub](https://github.com/Vickiiv)
+[LinkedIn](https://www.linkedin.com/in/victoriavirzi/) · [GitHub](https://github.com/Vickiiv)
