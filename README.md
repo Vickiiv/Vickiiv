@@ -1,3 +1,7 @@
+# Hi, ich bin Victoria 👋
+
+Junior Frontend & Full-Stack Developer | Fachinformatikerin für Anwendungsentwicklung | KI-gestützte Webentwicklung
+
 ## 🛠️ Tech-Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -14,4 +18,4 @@
 
 ## 📫 Kontakt
 
-[LinkedIn](https://www.linkedin.com/in/victoriavirzi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoriavirzi/)
